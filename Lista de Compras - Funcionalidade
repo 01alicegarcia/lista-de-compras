@@ -1,0 +1,3 @@
+O aplicativo tem como função principal ajudar no dia a dia, tornando a ida ao mercado mais prática com o uso de uma lista que pode ser reaproveitada pelo usuário, com itens que podem ser removidos, marcados como concluídos e afins. 
+Possui três categorias diferentes (as quais o usuário pode escolher qual usar) e cada uma abriga itens diferentes. 
+O useEffect escolhido foi o de histórico, manter lá as ações que o usuário fez no aplicativo, abrigando elas na LocalStorage para um próximo uso, remetendo assim a praticidade que o aplicativo foi criado para ter.
